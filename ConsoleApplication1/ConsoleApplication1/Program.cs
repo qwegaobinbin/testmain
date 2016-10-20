@@ -11,7 +11,11 @@ namespace ConsoleApplication1
         static void Main(string[] args)
         {
             string name = "dd";
+<<<<<<< HEAD
             name = "main";
+=======
+            string Name = "冲突";
+>>>>>>> 87f971dee9daf5dfa852a91ac4e87cf274ecb2f4
         }
     }
 }
