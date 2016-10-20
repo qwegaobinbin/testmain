@@ -12,8 +12,10 @@ namespace ConsoleApplication1
         {
             string name = "dd";
 
-            name = "mainkkkkkbbbbbbbbbbbb";
-         
+
+            name = "mainkkkkk，发反反复复";
+
+
 
         }
     }
