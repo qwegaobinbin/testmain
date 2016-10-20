@@ -12,7 +12,7 @@ namespace ConsoleApplication1
         {
             string name = "dd";
 
-            name = "main";
+            name = "mainkkkkk";
 
 
         }
