@@ -13,7 +13,8 @@ namespace ConsoleApplication1
             string name = "dd";
 
 
-            name = "mainkkkkk，  cxzvvvbb'''";
+            name = "mainkkkkk，发反反//////////////复复啦啦啦啦";
+
 
 
 
